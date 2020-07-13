@@ -1,3 +1,4 @@
+#!/bin/sh
 ./gameboy TEAM NEW_POKEMON Jolteon 2 2
 ./gameboy TEAM NEW_POKEMON Flareon 4 6
 ./gameboy TEAM NEW_POKEMON Umbreon 10 6

@@ -1,3 +1,4 @@
+#!/bin/sh
 ./gameboy TEAM APPEARED_POKEMON Pikachu 9 9
 ./gameboy TEAM APPEARED_POKEMON Squirtle 5 2
 
